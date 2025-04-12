@@ -35,7 +35,7 @@ console.log(`Enrolled? ${isStudent}`);
 */
 
 let fullName= "Burn Lai";
-let age = 65;
+let age = 70;
 let isStudent = false;
 
 document.getElementById("p1").textContent = `Your name is ${fullName}.`;
